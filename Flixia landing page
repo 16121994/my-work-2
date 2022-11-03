@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- todo: Stylesheet link -->
+		<link rel="stylesheet" href="style.css" />
+		<title>Flixia | Video Streaming Engine</title>
+	</head>
+	<body>
+		<header class="header">
+			<nav>
+				<div class="nav">
+					<h1 class="nav-heading"><a href="">Flixia</a></h1>
+					<ul class="nav-items">
+						<li class="nav-list"><a href="" class="nav-link">All Products</a></li>
+						<li class="nav-list"><a href="" class="nav-link">Marketplace</a></li>
+						<li class="nav-list"><a href="" class="nav-link">Resources</a></li>
+						<li class="nav-list"><a href="" class="nav-link">Help</a></li>
+						<li class="nav-list">
+							<a href="/signup.html" class="btn-Flix col-white">GET STARTED</a>
+						</li>
+					</ul>
+					<button class="btn btn-open">
+						<ion-icon name="menu-outline" class="nav-mobile-btn"></ion-icon>
+					</button>
+				</div>
+			</nav>
+		</header>
+		<div class="accordian">
+			<div class="accord-text">
+				<h1 class="text-accord">Video Streaming Engine</h1>
+				<p>
+					Your reliable streaming engine: For every industry, role, and use case
+				</p>
+			</div>
+			<div class="input">
+				<input
+					type="email"
+					name="email"
+					id="email"
+					placeholder="Enter email to Subscribe"
+				/><button type="submit">YES!</button>
+			</div>
+			<!-- <div class="bg-video">
+				<video class="bg-video__content" autoplay muted loop>
+					<source src="video.mp4" type="video/mp4" />
+					<source src="video.webm" type="video/webm" />
+					Your browser is not supported!
+				</video>
+			</div> -->
+		</div>
+		<main class="main">
+			<div class="row">
+				<div class="text">
+					<p class="long-text">
+					</p>
+					<p class="short-text">
+						You have a website or an app. You have lots of on-demand videos. Now, you
+						want a video streaming engine that will help your users to stream videos
+						on your website or app without compromising your website performance. You
+						should have Flixia as your video streaming engine.
+					</p>
+				</div>
+				<div class="list">
+					<h3 class="item-heading">Highlights</h3>
+					<ul class="list-items">
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Video Content Management System</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Built-in CDN for Buffer-free Streaming</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Automatic Encoding & Transcoding</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Customizable HTML5-based Online Video Player</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Protection From Piracy</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Social Publishing</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Manage Content Access</p>
+						</li>
+						<li class="items">
+							<ion-icon name="star"></ion-icon>
+							<p>Analytics and Reports</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- todo 1st Z-pattern -->
+			<div class="row">
+				<div class="text">
+					<h1 class="primary-heading">Video Content Management System</h1>
+					<p class="text">
+						Flixia offers an out-of-the-box
+						<a href="" class="light-blue">video CMS</a>, where you can upload, add
+						tags and manage publishing all your video and audio on your streaming
+						platforms. You can easily embed your content directly into your websites
+						and apps or create playlists and generate HLS output URLs.
+					</p>
+				</div>
+				<div class="image">
+					<img src="/img1.jpg" alt="Graphics Image" />
+				</div>
+			</div>
+			<!-- todo 2st Z-pattern -->
+			<div class="row">
+				<div class="image">
+					<img src="/img2.jpg" alt="Graphics Image" />
+				</div>
+				<div class="text">
+					<h1 class="primary-heading">Built-in CDN for Buffer-free Streaming</h1>
+					<p class="text">
+						Deliver a buffer-free streaming experience to your audiences from across
+						the globe with Flixia
+						<a href="" class="light-blue">built-in CDN</a>. Powered by AWS CloudFront
+						CDN, publish your content seamlessly and at a faster rate.
+					</p>
+				</div>
+			</div>
+			<!-- todo 3rd Z-pattern -->
+			<div class="row">
+				<div class="text">
+					<h1 class="primary-heading">Automatic Encoding & Transcoding</h1>
+					<p class="text">
+						Flixia automatic
+						<a href="" class="light-blue">encoding and transcoding</a> not only
+						reduces your time to market but also optimizes video quality. Uploaded
+						content gets encoded and transcoded automatically into digital format with
+						multiple resolutions from 144p to 4k, to ensure best video resolution for
+						your audiences regardless of their network bandwidth and devices used.
+					</p>
+				</div>
+				<div class="image">
+					<img src="/img3.jpg" alt="Graphics Image" />
+				</div>
+			</div>
+			<!-- todo 4th Z-pattern -->
+			<div class="row">
+				<div class="image">
+					<img src="/img4.jpg" alt="Graphics Image" />
+				</div>
+				<div class="text">
+					<h1 class="primary-heading">
+						Customizable HTML5-based Online Video Player
+					</h1>
+					<p class="text">
+					</p>
+				</div>
+			</div>
+			<!-- todo 5th Z-pattern -->
+			<div class="row">
+				<div class="text">
+					<h1 class="primary-heading">Protection From Piracy</h1>
+					<p class="text">
+					</p>
+				</div>
+				<div class="image">
+					<img src="/img5.jpg" alt="Graphics Image" />
+				</div>
+			</div>
+			<!-- todo 6th Z-pattern -->
+			<div class="row">
+				<div class="image">
+					<img src="/img6.jpg" alt="Graphics Image" />
+				</div>
+				<div class="text">
+					<h1 class="primary-heading">Social Publishing</h1>
+					<p class="text">
+						With Flixia <a href="" class="light-blue">social publishing</a>, you can
+						not only publish videos on your websites and apps but also on your social
+						media handles right from the CMS. You only need to connect your social
+						media handles with Muvi Flixia, select the video, and publish it.
+					</p>
+				</div>
+			</div>
+			<!-- todo 7th Z-pattern -->
+			<div class="row">
+				<div class="text">
+					<h1 class="primary-heading">Manage Content Access</h1>
+					<p class="text">
+						Flixia’s <a href="" class="light-blue">geo-blocking</a> lets you manage the
+						streaming access of your content effortlessly across the globe. Set
+						restrictions based on geographical location, based on- country, region and
+						city. You can white-list and black-list IP addresses of any region anytime
+						from the CMS as per your distribution strategy.
+					</p>
+				</div>
+				<div class="image">
+					<img src="/img7.jpg" alt="Graphics Image" />
+				</div>
+			</div>
+			<!-- todo 8th Z-pattern -->
+			<div class="row">
+				<div class="image">
+					<img src="/img8.jpg" alt="Graphics Image" />
+				</div>
+				<div class="text">
+					<h1 class="primary-heading">Analytics and Reports</h1>
+					<p class="text">
+						Flixia enables you to track and assess the performance of your videos on
+						websites and apps. With
+						<a href="" class="light-blue">analytics and reports</a>, you will get
+						detailed insights into your video performance such as user behavior,
+						devices used, drop-off rates, and more.
+					</p>
+				</div>
+			</div>
+		</main>
+		<section class="features">
+			<div class="feature-text">
+				<h1 class="primary-heading">
+					Get Your Free Trial Today. No Purchase Required
+				</h1>
+				<p>
+					Let Your Users Stream Videos | Video Streaming Engine with Multiple
+					Features | Video CMS
+				</p>
+				<p>
+					Already using a platform? Flixia Team will help with Data Migration,
+					Customizations, and Integrations. Switch to Flixia today!
+				</p>
+				<div class="btns">
+					<a href="/signup.html" class="btn-Flixia">GET STARTED</a>
+					<a href="" class="btn-Flix">VIEW ALL FEATURES</a>
+				</div>
+			</div>
+			<p>Upgrade/Cancel Anytime. No Commitments</p>
+		</section>
+		<footer>
+			<div class="footer">
+				<!-- todo 1st footer item -->
+				<div class="footer-head">
+					<h4 class="footer-heading">About Us</h4>
+					<ul class="footer-lists">
+						<li class="foot-list"><a href="">About Us</a></li>
+						<li class="foot-list"><a href="">Awards &amp; Recognition</a></li>
+						<li class="foot-list"><a href="">Work For Flixia</a></li>
+						<li class="foot-list"><a href="">Contact Us</a></li>
+					</ul>
+				</div>
+				<!-- todo 2nd footer item -->
+				<div class="footer-head">
+					<h4 class="footer-heading">Products Overview</h4>
+					<ul class="footer-lists">
+						<li class="foot-list"><a href="">Flixia One</a></li>
+						<li class="foot-list"><a href="">Flixia Flix</a></li>
+						<li class="foot-list"><a href="">Flixia Live</a></li>
+						<li class="foot-list"><a href="">Flixia Payout</a></li>
+					</ul>
+				</div>
+				<!-- todo 3rd footer item -->
+				<div class="footer-head">
+					<h4 class="footer-heading">Platform</h4>
+					<ul class="footer-lists">
+						<li class="foot-list"><a href="">Online Video Player</a></li>
+						<li class="foot-list"><a href="">Video Streaming engine</a></li>
+						<li class="foot-list"><a href="">Publish audio &amp; video</a></li>
+					</ul>
+				</div>
+				<!-- todo 4th footer item -->
+				<div class="footer-head">
+					<h4 class="footer-heading">Usage</h4>
+					<ul class="footer-lists">
+						<li class="foot-list"><a href="">Media and Entertainment</a></li>
+						<li class="foot-list"><a href="">News Publications nad Bloggers</a></li>
+						<li class="foot-list"><a href="">eLearning</a></li>
+						<li class="foot-list"><a href="">E-commerce</a></li>
+						<li class="foot-list"><a href="">Health and Fitness</a></li>
+						<li class="foot-list"><a href="">Digital Marketing Agencies</a></li>
+					</ul>
+				</div>
+				<!-- todo 5th footer item -->
+				<div class="footer-head">
+					<h4 class="footer-heading">Knowledgebase</h4>
+					<ul class="footer-lists">
+						<li class="foot-list"><a href="">Help Center</a></li>
+						<li class="foot-list"><a href="">Blogs</a></li>
+						<li class="foot-list"><a href="">Wiki</a></li>
+						<li class="foot-list"><a href="">API</a></li>
+					</ul>
+					<div class="icons">
+						<ul class="icon-lists">
+							<li class="list">
+								<a href=""><ion-icon name="logo-facebook"></ion-icon></a>
+							</li>
+							<li class="list">
+								<a href=""><ion-icon name="logo-twitter"></ion-icon></a>
+							</li>
+							<li class="list">
+								<a href=""><ion-icon name="logo-linkedin"></ion-icon></a>
+							</li>
+							<li class="list">
+								<a href=""><ion-icon name="logo-youtube"></ion-icon></a>
+							</li>
+							<li class="list">
+								<a href=""><ion-icon name="logo-instagram"></ion-icon></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="copy-write">
+				<p class="write">
+					&copy; <span class="year">2000</span> Flixia LLC, All Rights Reserved
+				</p>
+				<p><a href="">Flixia Legal Policies</a></p>
+			</div>
+		</footer>
+		<!-- todo: Ionsicon script -->
+		<script
+			type="module"
+			src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+		></script>
+		<script
+			nomodule
+			src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+		></script>
+		<!-- todo Script link -->
+		<script src="/App.js"></script>
+	</body>
+</html>
+Footer
